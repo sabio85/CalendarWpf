@@ -1,0 +1,11 @@
+Calendar.BL/obj/
+CalendarWpf/bin/
+CalendarWpf/obj/Debug/App.g.cs
+CalendarWpf/obj/Debug/MainWindow.g.cs
+CalendarWpf/obj/
+CalendarConsole/obj/
+CalendarConsole/bin/
+Calendar.Wpf/bin/
+Calendar.Wpf/obj/
+Calendar.Console/bin/
+Calendar.Console/obj/
